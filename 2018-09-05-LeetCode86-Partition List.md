@@ -21,7 +21,7 @@ Output: 1->2->2->4->3->5
 - 需要考虑到前后两个子链表是否为空情况下的处理
 
 ## Solution
-```
+```c++
 /**
  * Definition for singly-linked list.
  * struct ListNode {
